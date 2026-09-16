@@ -118,5 +118,5 @@ A sample dataset containing test leaf images (healthy and diseased) and sample N
 
 - Name: Akash Kumar Pandit
 - ID: 24BAI10629
-- Course: B.Tech Artificial Intelligence
+- Course: B.Tech CSE AI/ML
 - Institution: VIT Bhopal University
